@@ -1,0 +1,14 @@
+
+# Archivos compilados de Maven
+/target/
+
+# Archivos compilados de NetBeans (si usara Ant)
+/build/
+/dist/
+
+# Metadatos del IDE (específicos del usuario)
+/nbproject/private/
+/nbproject/build-impl.xml
+
+# Archivos de caché y logs
+*.log
